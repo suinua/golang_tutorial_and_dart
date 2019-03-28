@@ -1,0 +1,2 @@
+# multiple_result
+DartにはTupleが無いので不可能
