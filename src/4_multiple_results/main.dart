@@ -1,6 +1,5 @@
 import 'package:tuple/tuple.dart';
 
-//DartにTupleは無い。
 void main(List<String> args) {
   Tuple2 x = swap(Tuple2("Hello", "World"));
   print(x);
